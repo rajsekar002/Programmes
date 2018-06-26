@@ -6,8 +6,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+// import com.androindian.raj.programmes.databinding.ActivityLoginBinding;
+
 
 public class LoginActivity extends AppCompatActivity {
+
 
     EditText mobile,password;
     Button login;

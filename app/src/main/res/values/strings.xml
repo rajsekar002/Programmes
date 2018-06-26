@@ -3,4 +3,11 @@
     <string name="login">Login</string>
     <string name="pass">Password</string>
     <string name="mobile">UserMobile</string>
+
+    <string-array name="Testing">
+        <item>Maths</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>English</item>
+    </string-array>
 </resources>

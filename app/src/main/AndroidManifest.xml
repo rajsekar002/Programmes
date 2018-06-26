@@ -16,7 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MenuActivity"></activity>
+        <activity android:name=".MenuActivity" />
+
+        <service android:name=".Myservice" />
+
+        <activity android:name=".AdvancedViews" />
+        <activity android:name=".ListView_test"></activity>
+        <activity android:name=".ListView_custom"></activity>
+        <activity android:name=".ListView_res"></activity>
     </application>
 
 </manifest>
